@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## video
 
-<video controls src="src/Social App - Google Chrome 2024-03-20 19-21-45.mp4" title="Title"></video>
+https://github.com/HarikaAltada/facebook-clone/assets/151178873/36577e4a-574f-4e09-8dfa-497135cd7faf
 
 ## Available Scripts
 
